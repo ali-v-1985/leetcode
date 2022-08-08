@@ -1,9 +1,7 @@
 :rootdir: ..
-ifndef::imagesdir[:imagesdir: {rootdir}/images]
-ifndef::sourcedir[:sourcedir: {rootdir}/code_examples]
 
 [discrete]
-1.Two Sum(*_Easy_*)
+1.Two Sum([green]*_Easy_*)
 
 Given an array of integers `+nums+` and an integer `+target+`, return indices of the two numbers such that they add up to `+target+`.
 
