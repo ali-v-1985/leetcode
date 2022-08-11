@@ -1,0 +1,28 @@
+:rootdir: ..
+
+[discrete]
+*5.Longest Palindromic Substring*([yellow]_Medium_)
+
+Given a string `+s+`, return the _longest palindromic substring_ in `+s+`.
+
+
+
+Example 1:
+[source]
+----
+Input: s = "babad"
+Output: "bab"
+Explanation: "aba" is also a valid answer.
+----
+
+Example 2:
+[source]
+----
+Input: s = "cbbd"
+Output: "bb"
+----
+
+Constraints:
+
+* `+1 <= s.length <= 1000+`
+* `+s+` consist of only digits and English letters.
