@@ -1,7 +1,7 @@
 :rootdir: ..
 
 [discrete]
-4.Median of Two Sorted Arrays([red]*Hard*)
+*4.Median of Two Sorted Arrays*([red]_Hard_)
 
 Given two sorted arrays `+nums1+` and `+nums2+` of size `+m+` and `+n+` respectively, return *the median* of the two sorted arrays.
 
